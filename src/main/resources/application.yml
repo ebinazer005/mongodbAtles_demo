@@ -1,0 +1,4 @@
+spring:
+  mongodb:
+    uri: mongodb+srv://admin:admin@crud.c5h7heo.mongodb.net/?appName=crud
+    database: Task
