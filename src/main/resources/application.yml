@@ -1,4 +1,4 @@
 spring:
   mongodb:
-    uri: mongodb+srv://admin:admin@crud.c5h7heo.mongodb.net/?appName=crud
+    uri: mongodb+srv://ebinazer206_db_user:clGS5oGs0oc7Cjsz@cluster0.bfkelqq.mongodb.net/?appName=Cluster0
     database: Task
