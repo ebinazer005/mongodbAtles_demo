@@ -1,4 +1,6 @@
+server:
+      port: ${PORT:8080}
 spring:
   mongodb:
-    uri: mongodb+srv://admin:admin@crud.c5h7heo.mongodb.net/?appName=crud
-    database: Task
+    uri: mongodb+srv://ebinazerselvaraj206_db_user:admin@crud.u5fehgo.mongodb.net/?appName=crud
+    database: Task	
