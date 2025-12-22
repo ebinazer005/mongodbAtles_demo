@@ -2,10 +2,5 @@ server:
       port: ${PORT:8080}
 spring:
   mongodb:
-<<<<<<< HEAD
     uri: mongodb+srv://ebinazerselvaraj206_db_user:admin@crud.u5fehgo.mongodb.net/?appName=crud
     database: Task	
-=======
-    uri: mongodb+srv://ebinazer206_db_user:clGS5oGs0oc7Cjsz@cluster0.bfkelqq.mongodb.net/?appName=Cluster0
-    database: Task
->>>>>>> 6ba59e4408e94fde4f173f3cc5fae70015535801
